@@ -1,0 +1,16 @@
+{
+  "sepolia": {
+    "nft": "",
+    "priceOracle": "",
+    "auctionImplementation": "",
+    "auctionFactory": "",
+    "ccipHandler": ""
+  },
+  "polygonMumbai": {
+    "nft": "",
+    "priceOracle": "",
+    "auctionImplementation": "",
+    "auctionFactory": "",
+    "ccipHandler": ""
+  }
+}
